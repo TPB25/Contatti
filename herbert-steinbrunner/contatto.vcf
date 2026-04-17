@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Herbert Steinbrunner
+N:Steinbrunner;Herbert;;;
+ORG:GLASS AG
+TEL;TYPE=WORK,VOICE:+497633958060
+EMAIL;TYPE=WORK:hs@glass.ag
+ADR;TYPE=WORK:;;Gewerbestraße, 13 - 79258 Umkirch;;;;
+URL:https://www.glass.ag
+END:VCARD
