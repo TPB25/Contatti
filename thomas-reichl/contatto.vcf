@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Thomas Reichl
+N:Reichl;Thomas;;;
+ORG:SIKA
+TEL;TYPE=WORK,VOICE:+43506100
+EMAIL;TYPE=WORK:info@sika.at
+ADR;TYPE=WORK:;;Binger Dorfstrasse, 23 - Bludenz - 6700 (Austria);;;;
+URL:https://www.deu.sika.com
+END:VCARD
