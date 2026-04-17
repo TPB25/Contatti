@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Franz Singhammer
+N:Singhammer;Franz;;;
+ORG:Singhammer Bodensysteme GmbH
+TEL;TYPE=WORK,VOICE:+49805190480
+EMAIL;TYPE=WORK:franz@singhammer-bodensysteme.de
+ADR;TYPE=WORK:;;Gewerbegebiet 1 Greimharting 83253 Rimsting;;;;
+URL:https://www.singhammer-bodensysteme.de
+END:VCARD
