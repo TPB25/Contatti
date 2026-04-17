@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Eveline Fischer
+N:Fischer;Eveline;;;
+ORG:QV Fußboden
+TEL;TYPE=WORK,VOICE:+4975541266
+EMAIL;TYPE=WORK:office@qv-fussboden.de
+ADR;TYPE=WORK:;;Spitzäcker, 1 - 88682 Salem Beuren;;;;
+URL:https://www.qv-fussboden.de
+END:VCARD
