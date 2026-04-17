@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Jan Boettcher
+N:Boettcher;Jan;;;
+ORG:Böttcher Estriche
+TEL;TYPE=WORK,VOICE:+4952467091645
+EMAIL;TYPE=WORK:info@boettcher-estriche.de
+ADR;TYPE=WORK:;;Güterslohe Straße 89 - 33415 Vierl;;;;
+URL:https://www.boettcher-estriche.de
+END:VCARD
