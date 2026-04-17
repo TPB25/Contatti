@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Axel Kopf
+N:Kopf;Axel;;;
+ORG:AK Fußbodentechnik
+TEL;TYPE=WORK,VOICE:+4972232859655
+EMAIL;TYPE=WORK:axel-kopf@ak-fussboden-technik.de
+ADR;TYPE=WORK:;;Am Fuchsberg 9 - 76534 Baden Baden;;;;
+URL:https://www.ak-fussboden-technik.de
+END:VCARD
