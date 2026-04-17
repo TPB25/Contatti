@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Petra Mallok
+N:Mallok;Petra;;;
+ORG:Rapid Floor Estrichtechnologie GmbH
+TEL;TYPE=WORK,VOICE:+4915127647008
+EMAIL;TYPE=WORK:mallok@rapid-floor.de
+ADR;TYPE=WORK:;;Auerstraße 4 - 45663 Recklinghausen;;;;
+URL:https://www.rapid-floor.de
+END:VCARD
