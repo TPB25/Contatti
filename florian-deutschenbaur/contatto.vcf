@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Florian Deutschenbaur
+N:Deutschenbaur;Florian;;;
+ORG:SIKA Deutschland AG
+TEL;TYPE=WORK,VOICE:+4971180090
+EMAIL;TYPE=WORK:info@de.sika.com
+ADR;TYPE=WORK:;;Kornwestheimerstraße 103-107, 70439 Stuttgart;;;;
+URL:https://www.deu.sika.com
+END:VCARD
