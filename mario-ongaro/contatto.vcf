@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mario Ongaro
+N:Ongaro;Mario;;;
+ORG:Nord Resine Spa
+EMAIL;TYPE=WORK:marioongaro@resinenativus.it
+ADR;TYPE=WORK:;;Via fornace vecchia 79 - Susegana (tv);;;;
+URL:https://www.resinenativus.it
+END:VCARD
