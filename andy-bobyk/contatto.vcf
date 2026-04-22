@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Andy Bobyk
+N:Bobyk;Andy;;;
+ORG:Bobyk GmbH
+TEL;TYPE=WORK,VOICE:+49927392010
+EMAIL;TYPE=WORK:info@bobyk-gmbh.de
+ADR;TYPE=WORK:;;Peuntgasse, 27 - Goldkronach - 95497;;;;
+URL:https://www.bobyk-gmbh.de
+END:VCARD
