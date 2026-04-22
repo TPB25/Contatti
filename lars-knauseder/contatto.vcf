@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lars Knauseder
+N:Knauseder;Lars;;;
+ORG:P & K Flooringgroup GmbH
+TEL;TYPE=WORK,VOICE:+497195906620
+EMAIL;TYPE=WORK:info@flooringgroup.de
+ADR;TYPE=WORK:;;Maybachstrasse, 6 - Nellmersbach - 71397;;;;
+URL:https://www.flooringgroup.de
+END:VCARD
