@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alex Caregnato
+N:Caregnato;Alex;;;
+ORG:Nord Resine Spa
+TEL;TYPE=WORK,VOICE:+390438437511
+EMAIL;TYPE=WORK:alexcaregnato@resinenativus.it
+EMAIL;TYPE=WORK:alexcaregnato@nordresine.com
+ADR;TYPE=WORK:;;Via fornace vecchia 79 - Susegana (tv);;;;
+URL:https://nordresine.com/it/
+END:VCARD
